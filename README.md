@@ -56,3 +56,8 @@ Welcome to our 2D Local Multiplayer Shooting Game! This game is built using the 
 ## Have Fun!
 
 Enjoy the adrenaline-pumping action of our 2D Local Multiplayer Shooting Game. Challenge your friends, conquer the AI, and become the ultimate champion! If you encounter any issues or have suggestions, feel free to reach out. Happy gaming!
+
+## Game Screenshot
+
+![image](https://github.com/pschnatt/Shooter-2D-local-multiplayer/assets/121118638/b0c89945-d177-43c9-834c-851ef533eb32)
+
